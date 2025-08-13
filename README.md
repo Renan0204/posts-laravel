@@ -13,7 +13,7 @@
 ## Como rodar
 1. Clonar ou extrair o projeto.
 2. Rodar composer install.
-3. Cconfigurar o banco.
+3. Configurar o banco.
 4. Rodar php artisan key:generate.
 5. Rodar php artisan migrate.
 6. Rodar php artisan sync:posts.
