@@ -1,6 +1,5 @@
 ## Instalação e execução
-1. Clonar repositório:
-   git clone https://github.com/SEU_USUARIO/laravel-sync-posts.git
+1. Clonar repositório
 2. Instalar dependências:
    composer install
 3. Configurar banco de dados no .env
